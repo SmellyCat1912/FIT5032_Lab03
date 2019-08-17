@@ -9,7 +9,7 @@ namespace FIT5032_Lab03.HelloWorld
     {
         public String sayHello()
         {
-            return "Hello, Miffy!";
+            return "Hello, Miffy !";
         }
     }
 }
